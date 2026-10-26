@@ -1,0 +1,6 @@
+{
+  "name": "App Dashboard & Authentication",
+  "description": "Full-featured web application featuring landing page, authentication, interactive dashboard, UI component system, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
